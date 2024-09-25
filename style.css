@@ -1,0 +1,40 @@
+body{
+    width: 100%;
+    background: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+.container{
+    background-color: azure;
+    border-radius: 10px;
+    width: 400px;
+    max-width: 100%;
+    overflow: hidden;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);    
+}
+
+.form{
+    padding: 20px;    
+}
+
+.form-control{
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+    position: relative;
+}
+
+.form-control label{
+    display: inline-block;
+    margin-bottom: 7px;
+}
+
+.form-control input{
+    border: 2px solid white;    
+    display: block;
+    margin-bottom: 7px;
+    border-radius: 10px;
+    font-size: 12px;
+    width: 100%;
+    padding: 10px;
+}
