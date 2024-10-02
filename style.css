@@ -7,7 +7,7 @@
 
 body {
     width: 100%;
-    background: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);
+    background: linear-gradient(90deg, #00dbde 0%, #d9ff00 100%);
     ;
     display: flex;
     justify-content: center;
@@ -21,7 +21,7 @@ body {
     max-width: 100%;
     overflow: hidden;
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
-    padding: 25px;
+    padding: 30px;
 }
 
 .form {
